@@ -11,6 +11,10 @@ Models: vosk-model-small-en-us-0.15 and vosk-model-en-us-0.22 and
 
 Tools used:
 
+Unity: https://unity.com/
+
 Cursor AI: https://www.cursor.com/
 
+
+Python: 
 pip install flask pyaudio vosk nltk
