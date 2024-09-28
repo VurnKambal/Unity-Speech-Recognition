@@ -1,0 +1,48 @@
+.header {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.startButton {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-size: 50px;
+    -unity-font-style: bold;
+    width: 400px;
+    height: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.startButton:hover {
+    -unity-background-image-tint-color: rgb(250, 18, 18);
+    scale: 1.1 1.1;
+    background-color: rgb(0, 106, 17);
+}
+
+.stopButton {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-size: 50px;
+    -unity-font-style: bold;
+    width: 400px;
+    height: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.stopButton:hover {
+    -unity-background-image-tint-color: rgb(250, 18, 18);
+    scale: 1.1 1.1;
+    background-color: rgb(106, 0, 11);
+}
+
+.selection {
+    width: 800px;
+    font-size: 40px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-right;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
